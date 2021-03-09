@@ -16,4 +16,6 @@ I have named my image "WHTT.jpg". To run my code you need to change either the i
 
 6: Open the script and run it.
 
-The saved images from the assignment can be found in the "images"-filer in this repository.
+The saved images from the assignment can be found in the "images"-folder in this repository.
+
+Make sure to run the code from the 'cv101' environment.
