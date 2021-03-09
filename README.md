@@ -14,8 +14,7 @@ I have named my image "WHTT.jpg". To run my code you need to change either the i
 
 5: Make sure that you have the "WHTT.jpg"-image in your data-folder.
 
-6: Open the script and run it.
+6: Open the script and run it (make sure to run the code from the 'cv101' environment).
 
-The saved images from the assignment can be found in the "images"-folder in this repository.
+__NOTE: The saved images from the assignment can be found in the "images"-folder in this repository.__
 
-Make sure to run the code from the 'cv101' environment.
